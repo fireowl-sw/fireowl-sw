@@ -15,6 +15,7 @@
   - **Hunan University of Technology** - B.Eng. in Automation (自动化专业优秀毕业生, 2019 - 2023)
 - 🔍 **Research & Interests**: Spatial Intelligence (空间智能), 3D Reconstruction (三维重建), Embodied AI (具身智能), Autonomous Driving (自动驾驶仿真)
 - ✉️ **Contact**: fireowlsw@outlook.com
+- 🤗 **Hugging Face**: [sugar-bonsai](https://huggingface.co/fireowl-sw/sugar-bonsai)
 
 ---
 
