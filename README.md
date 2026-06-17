@@ -42,36 +42,14 @@
 
 ### 🚀 Featured Projects (精选项目)
 
-<!-- 可根据您后续在 GitHub 上开源的项目卡片进行替换 -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <a href="https://huggingface.co/fireowl-sw/sugar-bonsai">
-        <img src="https://img.shields.io/badge/Hugging%20Face-sugar--bonsai-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="sugar-bonsai" />
-      </a>
-      <br/><br/>
-      <sub>专注于空间理解与智能生成的具身智能/VLA模型底座项目</sub>
-      <br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <a href="https://huggingface.co/fireowl-sw/minimind-v-model">
-        <img src="https://img.shields.io/badge/Hugging%20Face-minimind--v--model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="minimind-v-model" />
-      </a>
-      <br/><br/>
-      <sub>基于小参数视觉语言模型极简实现的端到端训练与微调项目</sub>
-      <br/>
-    </td>
-  </tr>
-</table>
+- **🤗 [sugar-bonsai](https://huggingface.co/fireowl-sw/sugar-bonsai)** - 专注于三维空间理解与智能生成的具身智能/VLA模型底座项目。
+- **🤖 [a_nav_sim_ws](https://github.com/fireowl-sw/a_nav_sim_ws)** - 基于 ROS2 + Gazebo 的移动机器人 SLAM 建图与 A* 自主导航仿真系统。
+- **👁️ [Detect_dangerous_behaviour](https://github.com/fireowl-sw/Detect_dangerous_behaviour)** - 基于计算机视觉的危险行为实时检测与警报算法。
 
 ---
 
-### 📊 GitHub Stats (开发统计)
+### 📊 Most Used Languages (最常用语言)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fireowl-sw&show_icons=true&theme=dark&title_color=36BCF7&icon_color=36BCF7" alt="fireowl's GitHub stats" height="150px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireowl-sw&layout=compact&theme=dark&title_color=36BCF7" alt="Top Langs" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireowl-sw&layout=compact" alt="Top Langs" height="150px" />
 </p>
