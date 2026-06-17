@@ -45,17 +45,23 @@
 <!-- 可根据您后续在 GitHub 上开源的项目卡片进行替换 -->
 <table>
   <tr>
-    <td width="50%">
-      <!-- 项目一：机器人导航仿真 -->
-      <a href="https://github.com/fireowl-sw/a_nav_sim_ws">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=a_nav_sim_ws&theme=dark" alt="a_nav_sim_ws" />
+    <td width="50%" align="center">
+      <br/>
+      <a href="https://huggingface.co/fireowl-sw/sugar-bonsai">
+        <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-sugar--bonsai-FFD21E?style=for-the-badge&logoColor=black" alt="sugar-bonsai" />
       </a>
+      <br/><br/>
+      <sub>专注于空间理解与智能生成的具身智能/VLA模型底座项目</sub>
+      <br/>
     </td>
-    <td width="50%">
-      <!-- 项目二：危险行为检测 -->
-      <a href="https://github.com/fireowl-sw/Detect_dangerous_behaviour">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=Detect_dangerous_behaviour&theme=dark" alt="Detect_dangerous_behaviour" />
+    <td width="50%" align="center">
+      <br/>
+      <a href="https://huggingface.co/fireowl-sw/minimind-v-model">
+        <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-minimind--v--model-FFD21E?style=for-the-badge&logoColor=black" alt="minimind-v-model" />
       </a>
+      <br/><br/>
+      <sub>基于小参数视觉语言模型极简实现的端到端训练与微调项目</sub>
+      <br/>
     </td>
   </tr>
 </table>
