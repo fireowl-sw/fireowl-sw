@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/MuJoCo-412991?style=flat-square&logo=simulation&logoColor=white" alt="MuJoCo" />
   
   <!-- Embedded Systems -->
-  <img src="https://img.shields.io/badge/STM32-005F88?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/STM32-005F89?style=flat-square&logo=arm&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
@@ -48,7 +48,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="https://huggingface.co/fireowl-sw/sugar-bonsai">
-        <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-sugar--bonsai-FFD21E?style=for-the-badge&logoColor=black" alt="sugar-bonsai" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-sugar--bonsai-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="sugar-bonsai" />
       </a>
       <br/><br/>
       <sub>专注于空间理解与智能生成的具身智能/VLA模型底座项目</sub>
@@ -57,7 +57,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="https://huggingface.co/fireowl-sw/minimind-v-model">
-        <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-minimind--v--model-FFD21E?style=for-the-badge&logoColor=black" alt="minimind-v-model" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-minimind--v--model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="minimind-v-model" />
       </a>
       <br/><br/>
       <sub>基于小参数视觉语言模型极简实现的端到端训练与微调项目</sub>
