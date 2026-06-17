@@ -1,8 +1,8 @@
-# Hi there, I'm Wu Bo (吴波) 👋
+# Hi there, I'm fireowl 👋
 
 <p align="center">
   <a href="https://github.com/fireowl-sw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+Wu+Bo;MS+Candidate+at+HKPolyU;Focus+on+Spatial+Intelligence;Embodied+AI+%26+Robotics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+fireowl;MS+Candidate+at+HKPolyU;Focus+on+Spatial+Intelligence;Embodied+AI+%26+Robotics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -45,15 +45,15 @@
 <table>
   <tr>
     <td width="50%">
-      <!-- 项目一 -->
-      <a href="https://github.com/fireowl-sw/pi0-lerobot-grasp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=pi0-lerobot-grasp&theme=dark" alt="pi0-lerobot-grasp" />
+      <!-- 项目一：机器人导航仿真 -->
+      <a href="https://github.com/fireowl-sw/a_nav_sim_ws">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=a_nav_sim_ws&theme=dark" alt="a_nav_sim_ws" />
       </a>
     </td>
     <td width="50%">
-      <!-- 项目二 -->
-      <a href="https://github.com/fireowl-sw/carla-ros2-workspace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=carla-ros2-workspace&theme=dark" alt="carla-ros2-workspace" />
+      <!-- 项目二：危险行为检测 -->
+      <a href="https://github.com/fireowl-sw/Detect_dangerous_behaviour">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fireowl-sw&repo=Detect_dangerous_behaviour&theme=dark" alt="Detect_dangerous_behaviour" />
       </a>
     </td>
   </tr>
