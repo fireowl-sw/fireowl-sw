@@ -42,10 +42,10 @@
 
 ### 🚀 Featured Projects (精选项目)
 
-- **🤗 [sugar-bonsai](https://huggingface.co/fireowl-sw/sugar-bonsai)** - 专注于三维空间理解与智能生成的具身智能/VLA模型底座项目。
-- **🧠 [minimind-v-model](https://huggingface.co/fireowl-sw/minimind-v-model/tree/main)** - 基于小参数视觉语言模型极简实现的端到端训练与微调项目。
-- **✋ [MiniLab-Hand](https://github.com/fireowl-sw/MiniLab-Hand)** - 多自由度微型灵巧手硬件开发项目，包含电机控制与状态机驱动程序编写。
-- **🤖 [a_nav_sim_ws](https://github.com/fireowl-sw/a_nav_sim_ws)** - 基于 ROS2 + Gazebo 的移动机器人 SLAM 建图与 A* 自主导航仿真系统。
+- **🤗 [sugar-bonsai](https://huggingface.co/fireowl-sw/sugar-bonsai)** - 基于 3DGS（三维高斯泼溅）的场景重建项目，支持生成带网格（Mesh）的 .obj 模型以无缝导入 Isaac Sim 与 Blender 进行仿真和使用。
+- **🧠 [minimind-v-model](https://huggingface.co/fireowl-sw/minimind-v-model/tree/main)** - 极简 VLM（视觉语言模型）的复现项目，支持端到端训练、微调与推理使用演示。
+- **✋ [MiniLab-Hand](https://github.com/fireowl-sw/MiniLab-Hand)** - 基于 Unilab 架构的灵巧机械手掌强化学习（RL）训练与控制项目。
+- **🚗 [fireowl_sim_drive](https://github.com/fireowl-sw/fireowl_sim_drive)** - 基于 CARLA 仿真器与 ROS2 框架实现的自动驾驶实时点云建图与感知系统。
 
 ---
 
