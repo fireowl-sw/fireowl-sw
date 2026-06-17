@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MuJoCo-412991?style=flat-square&logo=simulation&logoColor=white" alt="MuJoCo" />
   
   <!-- Embedded Systems -->
-  <img src="https://img.shields.io/badge/STM32-005F87?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/STM32-005F88?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
@@ -64,11 +64,7 @@
 ### 📊 GitHub Stats (开发统计)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fireowl-sw&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Wu Bo's GitHub stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fireowl-sw&show_icons=true&theme=dark&title_color=36BCF7&icon_color=36BCF7" alt="fireowl's GitHub stats" height="150px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireowl-sw&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff" alt="Top Langs" height="150px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fireowl-sw&theme=onedark" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireowl-sw&layout=compact&theme=dark&title_color=36BCF7" alt="Top Langs" height="150px" />
 </p>
