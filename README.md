@@ -43,8 +43,9 @@
 ### 🚀 Featured Projects (精选项目)
 
 - **🤗 [sugar-bonsai](https://huggingface.co/fireowl-sw/sugar-bonsai)** - 专注于三维空间理解与智能生成的具身智能/VLA模型底座项目。
+- **🧠 [minimind-v-model](https://huggingface.co/fireowl-sw/minimind-v-model/tree/main)** - 基于小参数视觉语言模型极简实现的端到端训练与微调项目。
+- **✋ [MiniLab-Hand](https://github.com/fireowl-sw/MiniLab-Hand)** - 多自由度微型灵巧手硬件开发项目，包含电机控制与状态机驱动程序编写。
 - **🤖 [a_nav_sim_ws](https://github.com/fireowl-sw/a_nav_sim_ws)** - 基于 ROS2 + Gazebo 的移动机器人 SLAM 建图与 A* 自主导航仿真系统。
-- **👁️ [Detect_dangerous_behaviour](https://github.com/fireowl-sw/Detect_dangerous_behaviour)** - 基于计算机视觉的危险行为实时检测与警报算法。
 
 ---
 
